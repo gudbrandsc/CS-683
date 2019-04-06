@@ -12,8 +12,8 @@
 ## How to install
 
 ### Downlaod and Install Raspbian Lite
-First download the [Stretch Lite image](https://www.raspberrypi.org/downloads/raspbian/) to your computer. 
-Write the image to the your SD card. I recommend using [etcher](https://www.balena.io/etcher/)
+Download the [Stretch Lite image](https://www.raspberrypi.org/downloads/raspbian/) to your computer and 
+write the image to the your SD card. I recommend using [etcher](https://www.balena.io/etcher/)
 
 
 ### Setting up P4wnP1

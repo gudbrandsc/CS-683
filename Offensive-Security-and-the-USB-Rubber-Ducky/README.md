@@ -9,5 +9,16 @@ There are tons of USB Ruber Ducky that can be bought of the internet, that comes
 These USB rubber duckies comes with a done of pre writen ducky scripts that allows you to play simple pranks on your target, 
 or even do more serius stuff such as stealing passwords, open backdoors and so on. 
 
+### Create your own
+If you want to create your own USB rubber ducky from any hardware you have at home(raspberry pi, Arduino), or even just buy a cheap usb from china you can easily do that. There are several online tutorials online where you can download compilers and encoderes for your ducky scripts. 
+
+### Write your own scripts 
+https://thehacktoday.com/60-best-rubber-ducky-usb-payloads/
+There are alot of different script that you can run that are pre writen for you, but if you want you can also write your own scripts. I found that the easiest way to do this is to simply look at other scripts and modify them to your need. 
+
+## Buy USB Rubber Ducky 
+* https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+* https://www.amazon.com/Hak5-Rubber-Ducky-Deluxe-Field/dp/B07KQMMNKB
+
 ### Resources
-https://blog.hartleybrody.com/rubber-ducky-guide/
+* https://blog.hartleybrody.com/rubber-ducky-guide/

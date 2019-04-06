@@ -28,6 +28,7 @@ git clone --recursive https://github.com/mame82/P4wnP1
 cd P4wnP1
 ./install.sh
 ```
+Once the installation is done, move to the next section. 
 
 ### Change payload: 
 Now we need to change the payload to open a backdoor for us.

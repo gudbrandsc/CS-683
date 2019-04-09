@@ -119,7 +119,11 @@ ENTER
 DELAY 500
 
 ```
-
+NOTE: 
+On macOS Sierra and lower macOS versions, you should use a different command:
+```
+telnet towel.blinkenlights.nl
+```
 ## Select your starwars fan
 Select your target mac and connect the Pi to it.(You only need to use the usb data port now, since the pi will get power from the target machine.). Once connected the PI will create a WIFI network named P4wnP1. Connect to the network with the password: "MaMe82-P4wnP1". Once connected to the network you can SSH into your pi: 
 

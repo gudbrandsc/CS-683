@@ -135,7 +135,7 @@ this will enable us to see all the available duckyscripts and run them. In our c
 ```
 StartWars.duck
 ```
-Your target will now be shown the startwars episode IV in ASCII. 
+Your target will now be shown Star Wars episode IV in ASCII. 
 
 ## Credit
 **mame82** https://github.com/mame82/P4wnP1/blob/master/INSTALL.md

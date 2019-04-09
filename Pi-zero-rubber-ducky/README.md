@@ -102,12 +102,22 @@ To add a ducky script simply do the following:
 
 ```
 cd P4wnP1/DuckyScripts
-touch testDucky.duck
-nano testDucky.duck
+touch StartWars.duck
+nano StartWars.duck
 ```
 Add the following script: 
 ```
-My test script.....
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING nc towel.blinkenlights.nl 23
+DELAY 500
+ENTER
+DELAY 500
+
 ```
 
 ## Prank your first target

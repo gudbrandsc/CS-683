@@ -127,6 +127,7 @@ Select your target mac and connect the Pi to it.(You only need to use the usb da
 ssh pi@172.24.0.1 
 ```
 Password for SSH is: raspberry 
+
 First type:
 ```
 SendDuckyScripts

@@ -120,15 +120,22 @@ DELAY 500
 
 ```
 
-## Prank your first target
+## Select your starwars fan
 Select your target mac and connect the Pi to it.(You only need to use the usb data port now, since the pi will get power from the target machine.). Once connected the PI will create a WIFI network named P4wnP1. Connect to the network with the password: "MaMe82-P4wnP1". Once connected to the network you can SSH into your pi: 
 
 ```
 ssh pi@172.24.0.1 
 ```
 Password for SSH is: raspberry 
-
-You can now type help to navigate or simply just run your ducky scripts. 
+First type:
+```
+SendDuckyScripts
+```
+this will enable us to see all the available duckyscripts and run them. In our case, we want to run the Star Wars script so simply type
+```
+StartWars.duck
+```
+Your target will now be shown the startwars episode IV in ASCII. 
 
 ## Credit
 **mame82** https://github.com/mame82/P4wnP1/blob/master/INSTALL.md

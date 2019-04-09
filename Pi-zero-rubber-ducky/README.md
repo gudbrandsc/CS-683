@@ -132,7 +132,7 @@ First type:
 ```
 SendDuckyScripts
 ```
-this will enable us to see all the available duckyscripts and run them. In our case, we want to run the Star Wars script so simply type
+This will enable us to see all the available duckyscripts and run them. In our case, we want to run the Star Wars script so simply type
 ```
 StartWars.duck
 ```
